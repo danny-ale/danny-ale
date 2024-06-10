@@ -18,7 +18,7 @@
 <h3>Tecnologías y Herramientas ⚙️</h3>
 
 - **Lenguaje de Programacion:**
- [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,java,py,r&perline=3)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,java,py,r&perline=3)](https://skillicons.dev)
 
 - **Desarrollo Web:**
 - [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,jquery&perline=3)](https://skillicons.dev)
