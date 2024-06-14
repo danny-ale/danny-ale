@@ -51,7 +51,7 @@
 
 <h3> Educación 🎓</h3>
 <ul  type="circle">
-  <li>Licenciatura en Multimedia y Animacion Digital - Facultad de Ciencias Fisico Matematicas UANL/li>
+  <li>Licenciatura en Multimedia y Animacion Digital - Facultad de Ciencias Fisico Matematicas UANL</li>
 </ul>
 
 <h3 align="center"> Contacto 📩</h3>
