@@ -56,8 +56,8 @@
 
 <h3 align="center"> Contacto 📩</h3>
 <p >¡Me encantan los retos asi que puedes contactarme para cualquier nuevo proyecto! 🤝</p>
-<a href="www.linkedin.com/in/daniela-perez-91b2b8280/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-<a href="mailto:danyairamperez@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/daniela-perez-91b2b8280/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+<a href="mailto:danyairamperez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
 
