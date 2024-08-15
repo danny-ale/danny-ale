@@ -56,10 +56,9 @@
 
 <h3 align="center"> Contacto 📩</h3>
 <p >¡Me encantan los retos asi que puedes contactarme para cualquier nuevo proyecto! 🤝</p>
-<a href="www.linkedin.com/in/daniela-perez-91b2b8280" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="www.linkedin.com/in/daniela-perez-91b2b8280"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   
-<a href="danielapereznegocios@gmail.com" target="_blank">
+<a href="dperezaleman@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
 
