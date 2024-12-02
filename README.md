@@ -39,8 +39,12 @@
 
 <br>
 
-<h3> Proyectos Destacados 💻</h3>
+<h3> Experiencia 💼</h3>
+<ul  type="circle">
+  <li>Desarrolladora web Fullstack- LeadifyNow: <p>Uso de tecnologias como Springboot para logica de back-end y Vue.js para creacion front-end.</p></li>
+</ul>
 
+<h3> Proyectos Destacados 💻</h3>
 <ul  type="circle">
   <li>Blog de Moda:<p>Desarrollo de un blog usando JSP, CSS, JavaScript y bases de datos SQL.</p></li>
    <li>Aplicación de Gestión de Pasajes Bíblicos:<p>Desarrollo de una aplicación de escritorio para gestionar la búsqueda de pasajes bíblicos, utilizando Visual Studio, C#, Windows Forms y SQL Server.</p></li>
