@@ -41,8 +41,9 @@
 
 <h3> Experiencia 💼</h3>
 <ul  type="circle">
-  <li>Desarrolladora web Fullstack- LeadifyNow: <p>Uso de tecnologias como Springboot para logica de back-end y Vue.js para creacion front-end.</p></li>
+  <li>Practicante desarrollador web Fullstack- LeadifyNow: <p>Uso de tecnologias como Springboot para logica de back-end y Vue.js para creacion front-end.</p></li>
 </ul>
+<br>
 
 <h3> Proyectos Destacados 💻</h3>
 <ul  type="circle">
