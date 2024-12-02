@@ -21,13 +21,13 @@
 - [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,java,py,r&perline=3)](https://skillicons.dev)
 
 - **Desarrollo Web:**
-- [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,jquery&perline=3)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,spring,vue,jquery&perline=3)](https://skillicons.dev)
 
 - **Bases de Datos:**
 - [![My Skills](https://skillicons.dev/icons?i=mysql,cassandra&perline=2)](https://skillicons.dev)
 
 - **Herramientas:**
-- [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,figma,unity,ps,pr&perline=3)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,figma,postman,unity,ps,pr&perline=3)](https://skillicons.dev)
 
 
 <h3>Datos Estadisticos:-</h3>
@@ -36,7 +36,7 @@
     alt="danny-ale" 
     bg_color=#808080/></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danny-ale&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="danny-ale" /></p>
+
 <br>
 
 <h3> Proyectos Destacados 💻</h3>
