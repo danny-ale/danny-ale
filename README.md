@@ -21,7 +21,7 @@
 - [![My Skills](https://skillicons.dev/icons?i=cpp,cs,js,java,py,r&perline=3)](https://skillicons.dev)
 
 - **Desarrollo Web:**
-- [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,spring,vue,jquery&perline=3)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,spring,vue,jquery&perline=3)](https://skillicons.dev)
 
 - **Bases de Datos:**
 - [![My Skills](https://skillicons.dev/icons?i=mysql,cassandra&perline=2)](https://skillicons.dev)
