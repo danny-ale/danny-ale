@@ -29,14 +29,6 @@
 - **Herramientas:**
 - [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,figma,postman,unity,ps,pr&perline=3)](https://skillicons.dev)
 
-
-<h3>Datos Estadisticos:-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=danny-ale&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="danny-ale" 
-    bg_color=#808080/></p>
-<br>
-
 <br>
 
 <h3> Experiencia 💼</h3>
