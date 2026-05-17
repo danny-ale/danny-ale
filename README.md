@@ -21,17 +21,17 @@
 
 ### 💻 Proyectos Destacados
 
-#### [Cloud-Native Inventory API](https://github.com/danny-ale)
+#### [Cloud-Native Inventory API](https://github.com/danny-ale/InventoryApi)
 API REST de alto rendimiento diseñada bajo arquitectura multicapa.
 - **Stack:** .NET 8, SQL Server, Docker.
 - **Impacto:** Implementación de despliegue continuo (CI/CD) en Render.
 
-#### [AgroBloom | NASA Space Apps Challenge 2025](https://github.com/danny-ale)
+#### [AgroBloom | NASA Space Apps Challenge 2025](https://github.com/danny-ale/Hackaton-NASA)
 Plataforma AgTech para la predicción de cultivos desarrollada en 48 horas.
 - **Stack:** React, Flask, Google Gemini API.
 - **Impacto:** Integración de datos satelitales de la NASA para optimización agrícola.
 
-#### [Urban Mobility App](https://github.com/danny-ale)
+#### [Urban Mobility App](https://github.com/danny-ale/Flutter_APP)
  Solución móvil nativa para la gestión de flujos de transporte urbano.
 - **Stack:** Flutter, Dart.
 -  **Impacto:** Generación de códigos QR en tiempo real para simulación de pagos electrónicos.
@@ -40,7 +40,7 @@ Plataforma AgTech para la predicción de cultivos desarrollada en 48 horas.
 
 ### 🛠️ Tecnologías y Herramientas
 
--  **Backend:** [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,sqlserver,mysql,docker,harness)](https://skillicons.dev)
+-  **Backend:** [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,mysql,docker,harness)](https://skillicons.dev)
 -  **Frontend & Mobile:** [![My Skills](https://skillicons.dev/icons?i=react,vue,tailwind,flutter,dart)](https://skillicons.dev)
 - **Creative Roots (Game Dev):** [![My Skills](https://skillicons.dev/icons?i=cpp,unity,ps,pr)](https://skillicons.dev)
   - *Desarrollo de videojuegos 3D utilizando diefrentes motores graficos, DirectX 11 y C++.*
