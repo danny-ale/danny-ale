@@ -12,10 +12,10 @@
 
 ### ⚡ Sobre mí
 
-[cite_start]Soy **Licenciada en Multimedia y Animación Digital** por la **UANL**[cite: 18, 44]. 
+ Soy **Licenciada en Multimedia y Animación Digital** por la **UANL**. 
 
-- [cite_start]🛡️ **Enfoque:** Aspirante a la **Maestría en Seguridad de la Información** (FCFM)[cite: 44].
-- [cite_start]⏱️ **Disponibilidad:** Buscando activamente nuevos retos con **incorporación inmediata**[cite: 13].
+-  🛡️ **Enfoque:** Aspirante a la **Maestría en Seguridad de la Información y CiberSeguridad**.
+-  ⏱️ **Disponibilidad:** Buscando activamente nuevos retos con **incorporación inmediata**.
 
 ---
 
@@ -32,16 +32,16 @@ Plataforma AgTech para la predicción de cultivos desarrollada en 48 horas.
 - **Impacto:** Integración de datos satelitales de la NASA para optimización agrícola.
 
 #### [Urban Mobility App](https://github.com/danny-ale)
-[cite_start]Solución móvil nativa para la gestión de flujos de transporte urbano[cite: 45].
+ Solución móvil nativa para la gestión de flujos de transporte urbano.
 - **Stack:** Flutter, Dart.
-- [cite_start]**Impacto:** Generación de códigos QR en tiempo real para simulación de pagos electrónicos[cite: 45].
+-  **Impacto:** Generación de códigos QR en tiempo real para simulación de pagos electrónicos.
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
-- [cite_start]**Backend:** [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,sqlserver,mysql,docker,harness)](https://skillicons.dev) [cite: 22, 23, 24, 25]
-- [cite_start]**Frontend & Mobile:** [![My Skills](https://skillicons.dev/icons?i=react,vue,tailwind,flutter,dart)](https://skillicons.dev) [cite: 22, 23]
+-  **Backend:** [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,sqlserver,mysql,docker,harness)](https://skillicons.dev)
+-  **Frontend & Mobile:** [![My Skills](https://skillicons.dev/icons?i=react,vue,tailwind,flutter,dart)](https://skillicons.dev)
 - **Creative Roots (Game Dev):** [![My Skills](https://skillicons.dev/icons?i=cpp,unity,ps,pr)](https://skillicons.dev)
   - *Desarrollo de videojuegos 3D utilizando diefrentes motores graficos, DirectX 11 y C++.*
 
@@ -49,14 +49,6 @@ Plataforma AgTech para la predicción de cultivos desarrollada en 48 horas.
 
 ### 🏆 Experiencia Profesional
 
-- **BANCREA | [cite_start]Backend Consultant:** Modernización de ventanilla bancaria y automatización con OCR (Tesseract)[cite: 29, 31, 34].
-- **LEADIFY | [cite_start]Full Stack Developer:** Desarrollo de CRM escalable entregado en tiempo récord (Reconocimiento por desempeño)[cite: 37, 38, 41].
+- **BANCREA |  Backend Consultant:** Modernización de ventanilla bancaria y automatización con OCR (Tesseract).
+- **LEADIFY |  Full Stack Developer:** Desarrollo de CRM escalable entregado en tiempo récord (Reconocimiento por desempeño).
 
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danny-ale&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danny-ale&layout=compact&theme=visual_studio_code"/>
-</p>
